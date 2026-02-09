@@ -1,0 +1,102 @@
+{
+  "tired": ["fatigue", "low energy"],
+  "exhausted": ["fatigue", "low energy"],
+  "weak": ["weakness"],
+  "sleepy": ["poor sleep"],
+  "dizzy": ["dizziness"],
+  "faint": ["dizziness"],
+
+  "anxious": ["anxiety", "stress"],
+  "nervous": ["anxiety"],
+  "stressed": ["stress"],
+  "panic": ["anxiety"],
+  "tense": ["stress"],
+
+  "sad": ["low mood", "depression"],
+  "depressed": ["depression"],
+  "down": ["low mood"],
+  "hopeless": ["low mood"],
+
+  "sleep": ["poor sleep"],
+  "insomnia": ["poor sleep"],
+  "sleepless": ["poor sleep"],
+  "restless": ["poor sleep"],
+
+  "foggy": ["brain fog"],
+  "confused": ["brain fog"],
+  "forgetful": ["memory issues"],
+  "focus": ["poor concentration"],
+  "concentrate": ["poor concentration"],
+
+  "fever": ["fever", "infection"],
+  "chills": ["fever"],
+  "flu": ["infection"],
+  "cold": ["infection"],
+  "cough": ["infection"],
+  "sick": ["infection"],
+
+  "pain": ["pain"],
+  "ache": ["pain"],
+  "joint": ["joint pain"],
+  "muscle": ["muscle pain"],
+  "cramps": ["muscle cramps"],
+  "stiff": ["joint pain"],
+  "swelling": ["inflammation"],
+
+  "headache": ["headache"],
+  "migraine": ["headache"],
+
+  "bloating": ["bloating"],
+  "gas": ["bloating"],
+  "constipation": ["constipation"],
+  "diarrhea": ["diarrhea"],
+  "nausea": ["nausea"],
+  "vomit": ["vomiting"],
+  "indigestion": ["poor digestion"],
+
+  "hair": ["hair loss"],
+  "hairfall": ["hair loss"],
+  "bald": ["hair loss"],
+  "thinning": ["hair thinning"],
+
+  "skin": ["skin issues"],
+  "rash": ["skin rash"],
+  "itch": ["itching"],
+  "nails": ["brittle nails"],
+
+  "vision": ["vision problems"],
+  "eyes": ["eye strain"],
+  "blurred": ["blurred vision"],
+
+  "bruise": ["easy bruising"],
+  "bleeding": ["easy bruising"],
+
+  "healing": ["slow healing"],
+  "wound": ["slow healing"],
+  "cut": ["slow healing"],
+
+  "circulation": ["poor circulation"],
+  "breathless": ["shortness of breath"],
+
+  "dehydrated": ["dehydration"],
+  "thirsty": ["dehydration"],
+
+  "weight": ["weight changes"],
+  "gain": ["weight gain"],
+  "loss": ["weight loss"],
+
+  "memory": ["memory issues"],
+  "thinking": ["brain fog"],
+
+  "energy": ["low energy"],
+  "stamina": ["low stamina"],
+
+  "immune": ["weak immunity"],
+  "allergy": ["allergy symptoms"],
+
+  "digestion": ["poor digestion"],
+  "gut": ["gut issues"],
+
+  "stressful": ["stress"],
+  "burnout": ["fatigue", "stress"]
+}
